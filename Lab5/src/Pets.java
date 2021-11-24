@@ -1,0 +1,3 @@
+ interface Strokes {
+    void stroke();
+}
